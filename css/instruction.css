@@ -1,0 +1,86 @@
+#instructions1_title
+{
+    font-style: italic; 
+    color:blue;
+    text-align:center;
+}
+
+#instructions1
+{
+    line-height:25px;
+    padding-bottom:80px;
+    font-style:italic;
+}
+
+dt
+{
+    padding-top: 10px;
+}
+
+dd
+{
+    font-size:14px;
+}
+
+
+#fail1, #success1
+{
+    line-height:25px;
+    text-align:center;
+    padding-bottom: 5px;
+
+}
+
+/**** jeu 2 ****/
+#form_jpa1
+{
+    padding-left:12px
+}
+
+#jeu2
+{
+    height: 210px;
+    padding-top: 10px;
+}
+
+#jpa1
+{
+    width: 300px;
+}
+
+#jpa1div
+{
+    text-align:center;
+    padding-bottom: 15px;
+}
+
+#titre_form_div
+{
+    text-align:center;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+/*** jeu2 ****/
+#syllabe1
+{
+    color:red;
+    font-weight: bold;
+    font-size:30px; 
+}
+
+#question
+{
+    line-height:25px;
+}
+
+#texteq
+{
+    font-size:16px;   
+}
+
+#form_jpa2
+{
+    padding-left:14px
+}
+
